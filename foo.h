@@ -1,2 +1,3 @@
 bla
 foo
+feature
